@@ -1,0 +1,2 @@
+# slerp
+Spherical linear interpolation
